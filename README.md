@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/VUjIW1U.png" width="220" height="220">
 </p>
-## Challenge
+# Challenge
 To create an android application that lets people track their daily intake substances such as alcohol and cannabis.
 
 ## Main User Stories
